@@ -1,5 +1,5 @@
 {
-  "name": "rest_api_auth_nodejs",
+  "name": "login_logout",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
